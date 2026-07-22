@@ -1,0 +1,12 @@
+## Interface: 90207
+## Interface-Retail: 100107
+## Interface-Classic: 11404
+## Interface-BCC: 20504
+## Interface-Wrath: 30402
+## Title: Value Farm
+## Notes: Tracks gathered loot and updates values every second
+## Author: Zaximus @ Garrosh - HellscreamWoW
+## Version: 0.1 Beta
+## SavedVariables: ValueFarmDB
+
+ValueFarm.lua
